@@ -1,0 +1,22 @@
+.block{
+    float: left;
+    width: 33.3%
+}
+.lists {
+    width: 400px;
+    height: 200px;
+    border: solid 1px gray;
+    border-radius: 10px;
+    margin: 5px;
+}
+
+.inputs{
+    height: 25px;
+    border-radius: 10px;
+    margin: 5px;
+}
+
+.btn{
+    border-radius: 10px;
+    margin: 5px;
+}
